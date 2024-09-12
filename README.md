@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 HeLL0 !! am Izumi0XD <br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with learning Ethical Hacking<br>🌱 I’m currently learning Ethical Hacking <br>⚡
+🔭 HeLL0 !! am Izumi0XD <br>🤝 I’m looking for help with learning Ethical Hacking<br>🌱 I’m currently learning Ethical Hacking <br>⚡
 
 
 ## 🌐 Socials:
