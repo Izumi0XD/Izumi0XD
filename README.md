@@ -1,4 +1,4 @@
-#![logo](https://github.com/Izumi0XD/GIFS/blob/main/Black%20Yellow%20Bold%20Bag%20Fashion%20Sale%20Banner.png)
+![logo](https://github.com/Izumi0XD/GIFS/blob/main/Black%20Yellow%20Bold%20Bag%20Fashion%20Sale%20Banner.png)
  💫 About Me:
 🔭 I’m currently doing my CS Engineering and am in my 2nd year.<br>👯 I’m looking to learn more in the cybersecurity field.🖥️<br>🤝 I’m seeking help from any professional cybersecurity expert to guide me on this journey. 🛣️<br>🌱 I’m currently learning various languages like Python, c, c++, etc.<br>💬 Ask me about anything u want.<br>📫 How to reach me? > izzumi620@gmail.com<br>⚡ Fun fact I think I am Funny. 💀
 
@@ -27,4 +27,5 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=izumi0XD&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+https://github.com/user-attachments/assets/6f1f72a8-fce3-481f-90f6-f70d6cbd19af
