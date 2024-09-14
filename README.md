@@ -24,6 +24,6 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
-![GIF](https://github.com/user-attachments/assets/9b18a712-0a39-48ef-b5ef-2fa6560406d2)
+![GIF]([https://github.com/user-attachments/assets/9b18a712-0a39-48ef-b5ef-2fa6560406d2](https://github.com/Izumi0XD/GIFS/blob/main/WhatsApp%20Video%202024-09-14%20at%2002.39.39_474a09e5.mp4))
 
 
