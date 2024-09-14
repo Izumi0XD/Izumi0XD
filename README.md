@@ -2,7 +2,7 @@
  💫 About Me:
 🔭 I’m currently doing my CS Engineering and am in my 2nd year.<br>👯 I’m looking to learn more in the cybersecurity field.🖥️<br>🤝 I’m seeking help from any professional cybersecurity expert to guide me on this journey. 🛣️<br>🌱 I’m currently learning various languages like Python, c, c++, etc.<br>💬 Ask me about anything u want.<br>📫 How to reach me? > izzumi620@gmail.com<br>⚡ Fun fact I think I am Funny. 💀
 
-<img align="right" alt="coding" width="400" scr="[https://visitcount.itsvg.in/apiid=Izumi0XD&icon=0&color=0)](https://visitcount.itsvg.in](https://github.com/Izumi0XD/GIFS/blob/main/WhatsApp%20Video%202024-09-14%20at%2002.39.39_474a09e5.mp4)">
+<img align="right" alt="coding" width="400" scr="[https://visitcount.itsvg.in/apiid=Izumi0XD&icon=0&color=0)](https://github.com/Izumi0XD/GIFS/blob/main/GIF.mov)">
 
 
 ## 🌐 Socials:
