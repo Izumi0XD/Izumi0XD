@@ -1,6 +1,6 @@
 ![logo](https://github.com/Izumi0XD/Stuff/blob/main/Black%20Yellow%20Bold%20Bag%20Fashion%20Sale%20Banner.png)
  💫 About Me:
-🔭 I’m currently doing my CS Engineering and am in my 2nd year.<br>👯 I’m looking to learn more in the cybersecurity field.🖥️<br>🤝 I’m seeking help from any professional cybersecurity expert to guide me on this journey. 🛣️<br>🌱 I’m currently learning various languages like Python, C, C++, etc.<br>💬 Ask me about anything u want.<br>📫 How to reach me? > [HERE](izumi0xd@gmail.com)<br>⚡ Fun fact I think I am Funny. 💀
+🔭 I’m currently doing my CS Engineering and am in my 3rd year.<br>👯 I’m looking to learn more in the cybersecurity field.🖥️<br>🤝 I’m seeking help from any professional cybersecurity expert to guide me on this journey. 🛣️<br>🌱 I’m currently learning various languages like Python, C, C++, etc.<br>💬 Ask me about anything u want.<br>📫 How to reach me? > [HERE](izumi0xd@gmail.com)<br>⚡ Fun fact I think I am Funny. 💀
 
 <!-- <img align="right" alt="coding" width="400" scr="[https://visitcount.itsvg.in/apiid=Izumi0XD&icon=0&color=0)](https://github.com/Izumi0XD/GIFS/blob/main/GIF.mov)"> -->
 
